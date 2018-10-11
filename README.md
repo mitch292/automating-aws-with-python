@@ -1,3 +1,7 @@
 # Automating AWS with Python
 
-Repository for my code while doing an acloud.guru course on automating AWS with python
+Repository for my code while doing an acloud.guru course on *Automating AWS with Python*
+
+## 01-webotron
+
+Webotron is a script that will sync a local directory to an S3 bucket.  It can optionally configure Route 53 and CloudFront as well.
